@@ -8,3 +8,13 @@ Convolutional Neural Networks (CNNs) analyze high-resolution satellite images to
 CNNs trained on labeled data can predict economic conditions even in areas without surveys, explaining up to 75% of local economic variation.
 Transfer learning makes models adaptable to new regions with minimal retraining.This method is cost-effective, timely, and enables continuous monitoring of poverty trends. It helps policymakers and organizations better target and evaluate development programs.
 Combining AI and satellite data bridges data gaps and supports smarter poverty alleviation strategies.
+
+# Dataset:
+https://www.kaggle.com/datasets/andrewmvd/pothole-detection
+# Running project
+cd pothole-detection
+image.py
+
+
+
+mul_image.py
