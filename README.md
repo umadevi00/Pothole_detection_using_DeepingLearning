@@ -18,9 +18,13 @@ cd pothole-detection
 image.py
 
 mul_image.py
+
+
+<img width="1915" height="897" alt="Image" src="https://github.com/user-attachments/assets/9c01c667-5b3b-4853-b9e8-51c04572e84e" />
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 <img width="1639" height="702" alt="Image" src="https://github.com/user-attachments/assets/6650498f-acb7-45cf-a8b0-0577b7b7f617" />
 
-
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e084f6fe-7912-4e75-a63c-807793f67754" />
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <img width="982" height="450" alt="Image" src="https://github.com/user-attachments/assets/418778d2-900c-431d-a31d-9346dded1a14" />
