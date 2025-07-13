@@ -21,3 +21,5 @@ image.py
 
 
 mul_image.py
+
+<img width="982" height="450" alt="Image" src="https://github.com/user-attachments/assets/418778d2-900c-431d-a31d-9346dded1a14" />
