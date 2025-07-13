@@ -13,7 +13,10 @@ Combining AI and satellite data bridges data gaps and supports smarter poverty a
 https://www.kaggle.com/datasets/andrewmvd/pothole-detection
 # Running project
 cd pothole-detection
+
 image.py
+
+
 <img width="1639" height="702" alt="Image" src="https://github.com/user-attachments/assets/6650498f-acb7-45cf-a8b0-0577b7b7f617" />
 
 
