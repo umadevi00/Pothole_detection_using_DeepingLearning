@@ -1,0 +1,666 @@
+image_name,latitude,longitude,label
+potholes0.png,17.381223,78.490626,no pothole
+potholes1.png,17.386229,78.489207,pothole
+potholes2.png,17.393229,78.481509,pothole
+potholes3.png,17.39116,78.491786,no pothole
+potholes4.png,17.390045,78.481464,pothole
+potholes5.png,17.384253,78.483408,no pothole
+potholes6.png,17.383624,78.482304,pothole
+potholes7.png,17.387359,78.479132,pothole
+potholes8.png,17.383027,78.478995,no pothole
+potholes9.png,17.380743,78.479615,pothole
+potholes10.png,17.39193,78.477289,pothole
+potholes11.png,17.392307,78.479833,pothole
+potholes12.png,17.38581,78.484197,no pothole
+potholes13.png,17.387607,78.481797,pothole
+potholes14.png,17.385489,78.480275,no pothole
+potholes15.png,17.394755,78.478973,pothole
+potholes16.png,17.394453,78.482116,pothole
+potholes17.png,17.386881,78.476903,no pothole
+potholes18.png,17.390927,78.490844,pothole
+potholes19.png,17.38765,78.483145,no pothole
+potholes20.png,17.388323,78.479709,no pothole
+potholes21.png,17.393838,78.47694,no pothole
+potholes22.png,17.392941,78.490177,no pothole
+potholes23.png,17.377317,78.495194,no pothole
+potholes24.png,17.378138,78.493206,no pothole
+potholes25.png,17.376946,78.493918,pothole
+potholes26.png,17.383851,78.482055,no pothole
+potholes27.png,17.389418,78.4964,no pothole
+potholes28.png,17.388991,78.479168,no pothole
+potholes29.png,17.38353,78.48825,no pothole
+potholes30.png,17.392571,78.48364,pothole
+potholes31.png,17.394242,78.48987,no pothole
+potholes32.png,17.377575,78.477223,no pothole
+potholes33.png,17.37546,78.486807,pothole
+potholes34.png,17.387689,78.479214,pothole
+potholes35.png,17.381205,78.485867,pothole
+potholes36.png,17.389298,78.490862,pothole
+potholes37.png,17.38876,78.483297,pothole
+potholes38.png,17.383582,78.487507,pothole
+potholes39.png,17.378743,78.478409,pothole
+potholes40.png,17.388629,78.48371,pothole
+potholes41.png,17.39377,78.494859,pothole
+potholes42.png,17.380535,78.48341,no pothole
+potholes43.png,17.386641,78.489718,no pothole
+potholes44.png,17.386641,78.490149,pothole
+potholes45.png,17.386537,78.48154,pothole
+potholes46.png,17.387038,78.48505,no pothole
+potholes47.png,17.392967,78.492003,pothole
+potholes48.png,17.379341,78.4896,no pothole
+potholes49.png,17.388152,78.495398,pothole
+potholes50.png,17.389669,78.494593,pothole
+potholes51.png,17.380672,78.489434,pothole
+potholes52.png,17.385289,78.495922,no pothole
+potholes53.png,17.38639,78.476757,pothole
+potholes54.png,17.384535,78.490302,pothole
+potholes55.png,17.382283,78.487135,no pothole
+potholes56.png,17.387213,78.495783,pothole
+potholes57.png,17.381691,78.4785,no pothole
+potholes58.png,17.377849,78.493427,no pothole
+potholes59.png,17.37809,78.479406,pothole
+potholes60.png,17.379676,78.477229,pothole
+potholes61.png,17.386535,78.485134,pothole
+potholes62.png,17.39311,78.488645,no pothole
+potholes63.png,17.376607,78.487911,no pothole
+potholes64.png,17.393262,78.490855,no pothole
+potholes65.png,17.382259,78.480448,no pothole
+potholes66.png,17.392129,78.488851,pothole
+potholes67.png,17.393522,78.476724,pothole
+potholes68.png,17.382039,78.486834,pothole
+potholes69.png,17.387174,78.478483,pothole
+potholes70.png,17.386533,78.47997,pothole
+potholes71.png,17.389211,78.490049,no pothole
+potholes72.png,17.393731,78.48637,pothole
+potholes73.png,17.380904,78.491875,pothole
+potholes74.png,17.391456,78.480903,pothole
+potholes75.png,17.390227,78.493469,no pothole
+potholes76.png,17.3837,78.484047,pothole
+potholes77.png,17.378447,78.478852,pothole
+potholes78.png,17.377132,78.49458,no pothole
+potholes79.png,17.393624,78.496195,no pothole
+potholes80.png,17.39225,78.480202,no pothole
+potholes81.png,17.378593,78.483387,pothole
+potholes82.png,17.378933,78.48397,no pothole
+potholes83.png,17.375758,78.484649,pothole
+potholes84.png,17.385598,78.489321,pothole
+potholes85.png,17.384983,78.489249,no pothole
+potholes86.png,17.388083,78.494881,pothole
+potholes87.png,17.386261,78.480839,pothole
+potholes88.png,17.376723,78.48681,pothole
+potholes89.png,17.381229,78.48736,pothole
+potholes90.png,17.376237,78.494186,pothole
+potholes91.png,17.379415,78.481529,no pothole
+potholes92.png,17.381539,78.496353,no pothole
+potholes93.png,17.38987,78.495962,no pothole
+potholes94.png,17.375336,78.480773,no pothole
+potholes95.png,17.393427,78.479914,pothole
+potholes96.png,17.386673,78.481103,pothole
+potholes97.png,17.380391,78.483286,no pothole
+potholes98.png,17.375739,78.478776,no pothole
+potholes99.png,17.376468,78.490911,no pothole
+potholes100.png,17.393196,78.489409,no pothole
+potholes101.png,17.379275,78.481006,no pothole
+potholes102.png,17.386264,78.493708,no pothole
+potholes103.png,17.377347,78.490204,no pothole
+potholes104.png,17.377458,78.478996,pothole
+potholes105.png,17.387312,78.492382,no pothole
+potholes106.png,17.391281,78.4896,pothole
+potholes107.png,17.393564,78.486008,no pothole
+potholes108.png,17.382086,78.48911,no pothole
+potholes109.png,17.386231,78.482341,pothole
+potholes110.png,17.392872,78.487982,no pothole
+potholes111.png,17.383698,78.487247,pothole
+potholes112.png,17.378698,78.477127,no pothole
+potholes113.png,17.377704,78.495806,no pothole
+potholes114.png,17.38786,78.478824,no pothole
+potholes115.png,17.382585,78.488086,pothole
+potholes116.png,17.393301,78.4798,pothole
+potholes117.png,17.376748,78.480031,no pothole
+potholes118.png,17.38334,78.482347,pothole
+potholes119.png,17.392384,78.479869,no pothole
+potholes120.png,17.381357,78.48422,pothole
+potholes121.png,17.389438,78.487236,pothole
+potholes122.png,17.392981,78.48443,no pothole
+potholes123.png,17.376421,78.491313,pothole
+potholes124.png,17.38842,78.480835,pothole
+potholes125.png,17.375159,78.481389,pothole
+potholes126.png,17.384512,78.492689,pothole
+potholes127.png,17.39391,78.477388,pothole
+potholes128.png,17.384125,78.491324,pothole
+potholes129.png,17.386214,78.487681,pothole
+potholes130.png,17.385756,78.483115,no pothole
+potholes131.png,17.393224,78.484097,no pothole
+potholes132.png,17.394086,78.485137,pothole
+potholes133.png,17.388455,78.482638,pothole
+potholes134.png,17.386062,78.490585,pothole
+potholes135.png,17.378101,78.481354,no pothole
+potholes136.png,17.389386,78.485829,no pothole
+potholes137.png,17.390201,78.487589,pothole
+potholes138.png,17.378522,78.482681,no pothole
+potholes139.png,17.378765,78.486453,no pothole
+potholes140.png,17.375196,78.479013,pothole
+potholes141.png,17.391906,78.485745,pothole
+potholes142.png,17.393107,78.484119,no pothole
+potholes143.png,17.382034,78.48785,pothole
+potholes144.png,17.385027,78.489487,no pothole
+potholes145.png,17.393465,78.482828,pothole
+potholes146.png,17.394333,78.496589,no pothole
+potholes147.png,17.388638,78.489836,pothole
+potholes148.png,17.383386,78.493946,pothole
+potholes149.png,17.386647,78.478724,pothole
+potholes150.png,17.394457,78.492633,pothole
+potholes151.png,17.375698,78.489759,no pothole
+potholes152.png,17.392145,78.477985,pothole
+potholes153.png,17.391467,78.485875,pothole
+potholes154.png,17.384194,78.477835,no pothole
+potholes155.png,17.378109,78.485941,pothole
+potholes156.png,17.375401,78.478545,no pothole
+potholes157.png,17.383148,78.481366,pothole
+potholes158.png,17.382182,78.476973,no pothole
+potholes159.png,17.394208,78.48232,no pothole
+potholes160.png,17.37711,78.490705,pothole
+potholes161.png,17.384952,78.484565,pothole
+potholes162.png,17.37552,78.48163,pothole
+potholes163.png,17.380734,78.492715,pothole
+potholes164.png,17.393806,78.486238,pothole
+potholes165.png,17.37618,78.494098,pothole
+potholes166.png,17.392816,78.478882,pothole
+potholes167.png,17.376075,78.486656,no pothole
+potholes168.png,17.389466,78.483992,no pothole
+potholes169.png,17.391935,78.485227,pothole
+potholes170.png,17.380548,78.48418,pothole
+potholes171.png,17.392719,78.478819,pothole
+potholes172.png,17.378423,78.486484,no pothole
+potholes173.png,17.391839,78.487015,pothole
+potholes174.png,17.391995,78.496578,pothole
+potholes175.png,17.392674,78.491446,no pothole
+potholes176.png,17.390634,78.477227,pothole
+potholes177.png,17.382323,78.493431,no pothole
+potholes178.png,17.380769,78.487503,no pothole
+potholes179.png,17.381309,78.479918,pothole
+potholes180.png,17.388571,78.487923,no pothole
+potholes181.png,17.378398,78.490685,pothole
+potholes182.png,17.389765,78.490693,pothole
+potholes183.png,17.38488,78.485792,pothole
+potholes184.png,17.393081,78.48424,pothole
+potholes185.png,17.387921,78.495875,no pothole
+potholes186.png,17.388954,78.495319,no pothole
+potholes187.png,17.37538,78.491506,no pothole
+potholes188.png,17.37978,78.495896,no pothole
+potholes189.png,17.385256,78.478717,pothole
+potholes190.png,17.379425,78.483525,pothole
+potholes191.png,17.38777,78.482263,pothole
+potholes192.png,17.393334,78.489707,pothole
+potholes193.png,17.376613,78.493754,pothole
+potholes194.png,17.379597,78.49631,pothole
+potholes195.png,17.38686,78.495272,pothole
+potholes196.png,17.383568,78.490294,pothole
+potholes197.png,17.386795,78.488944,no pothole
+potholes198.png,17.382956,78.487407,pothole
+potholes199.png,17.386356,78.494756,no pothole
+potholes200.png,17.380468,78.476914,pothole
+potholes201.png,17.375331,78.486465,no pothole
+potholes202.png,17.376763,78.488912,pothole
+potholes203.png,17.392065,78.490984,no pothole
+potholes204.png,17.389754,78.480537,no pothole
+potholes205.png,17.393865,78.494873,no pothole
+potholes206.png,17.385626,78.487928,no pothole
+potholes207.png,17.386215,78.482445,no pothole
+potholes208.png,17.377178,78.488658,pothole
+potholes209.png,17.382072,78.478265,no pothole
+potholes210.png,17.377324,78.479019,no pothole
+potholes211.png,17.38897,78.484538,pothole
+potholes212.png,17.394462,78.492747,no pothole
+potholes213.png,17.394687,78.480139,pothole
+potholes214.png,17.389515,78.495364,pothole
+potholes215.png,17.379371,78.49485,no pothole
+potholes216.png,17.385547,78.486033,pothole
+potholes217.png,17.392033,78.477231,pothole
+potholes218.png,17.389024,78.482971,no pothole
+potholes219.png,17.383029,78.492607,pothole
+potholes220.png,17.380769,78.490761,pothole
+potholes221.png,17.376098,78.481534,no pothole
+potholes222.png,17.375467,78.47885,no pothole
+potholes223.png,17.381509,78.482198,pothole
+potholes224.png,17.379092,78.494752,no pothole
+potholes225.png,17.3776,78.492913,pothole
+potholes226.png,17.391851,78.492736,pothole
+potholes227.png,17.394938,78.483886,no pothole
+potholes228.png,17.390547,78.486759,pothole
+potholes229.png,17.389773,78.494991,no pothole
+potholes230.png,17.390668,78.479409,no pothole
+potholes231.png,17.393072,78.477373,pothole
+potholes232.png,17.378694,78.478667,no pothole
+potholes233.png,17.376085,78.494043,no pothole
+potholes234.png,17.389602,78.494144,pothole
+potholes235.png,17.375501,78.477421,pothole
+potholes236.png,17.385078,78.480911,no pothole
+potholes237.png,17.391526,78.49245,pothole
+potholes238.png,17.39099,78.493529,pothole
+potholes239.png,17.394348,78.495657,pothole
+potholes240.png,17.376637,78.482326,no pothole
+potholes241.png,17.393822,78.494957,no pothole
+potholes242.png,17.378421,78.492161,pothole
+potholes243.png,17.379448,78.496541,no pothole
+potholes244.png,17.379726,78.484602,pothole
+potholes245.png,17.38906,78.478558,no pothole
+potholes246.png,17.386534,78.478966,pothole
+potholes247.png,17.391934,78.487189,no pothole
+potholes248.png,17.381364,78.487084,pothole
+potholes249.png,17.386823,78.484632,no pothole
+potholes250.png,17.392633,78.4932,pothole
+potholes251.png,17.390333,78.480156,no pothole
+potholes252.png,17.394099,78.482131,pothole
+potholes253.png,17.378827,78.492909,no pothole
+potholes254.png,17.376645,78.487764,no pothole
+potholes255.png,17.380544,78.491209,no pothole
+potholes256.png,17.391826,78.492261,pothole
+potholes257.png,17.387808,78.493087,no pothole
+potholes258.png,17.383783,78.493353,no pothole
+potholes259.png,17.376066,78.477409,pothole
+potholes260.png,17.394724,78.482746,no pothole
+potholes261.png,17.393834,78.480823,pothole
+potholes262.png,17.383551,78.490288,pothole
+potholes263.png,17.39256,78.480455,no pothole
+potholes264.png,17.390415,78.486284,pothole
+potholes265.png,17.39129,78.482866,no pothole
+potholes266.png,17.388451,78.492507,pothole
+potholes267.png,17.376059,78.496121,pothole
+potholes268.png,17.385944,78.488256,no pothole
+potholes269.png,17.378783,78.488398,no pothole
+potholes270.png,17.393968,78.490958,no pothole
+potholes271.png,17.387574,78.490527,no pothole
+potholes272.png,17.387918,78.482328,pothole
+potholes273.png,17.381427,78.477386,pothole
+potholes274.png,17.381766,78.496251,pothole
+potholes275.png,17.378901,78.478077,pothole
+potholes276.png,17.377377,78.486062,pothole
+potholes277.png,17.377254,78.480318,pothole
+potholes278.png,17.383701,78.479318,no pothole
+potholes279.png,17.391949,78.493624,pothole
+potholes280.png,17.382524,78.492453,no pothole
+potholes281.png,17.378323,78.478556,pothole
+potholes282.png,17.38686,78.481275,pothole
+potholes283.png,17.378739,78.496331,pothole
+potholes284.png,17.39266,78.494958,no pothole
+potholes285.png,17.379965,78.4808,pothole
+potholes286.png,17.389231,78.484227,pothole
+potholes287.png,17.390149,78.489429,pothole
+potholes288.png,17.378066,78.480729,no pothole
+potholes289.png,17.390546,78.484489,no pothole
+potholes290.png,17.375904,78.493693,pothole
+potholes291.png,17.387243,78.485208,pothole
+potholes292.png,17.387864,78.479618,no pothole
+potholes293.png,17.390733,78.495794,pothole
+potholes294.png,17.380453,78.491612,pothole
+potholes295.png,17.378473,78.4835,no pothole
+potholes296.png,17.383277,78.478791,pothole
+potholes297.png,17.383756,78.484649,pothole
+potholes298.png,17.375552,78.478775,pothole
+potholes299.png,17.386822,78.496467,no pothole
+potholes300.png,17.389715,78.488874,no pothole
+potholes301.png,17.392614,78.485024,pothole
+potholes302.png,17.389499,78.477857,pothole
+potholes303.png,17.394195,78.484018,no pothole
+potholes304.png,17.377883,78.483158,pothole
+potholes305.png,17.393567,78.496617,no pothole
+potholes306.png,17.37721,78.480202,no pothole
+potholes307.png,17.390015,78.478668,no pothole
+potholes308.png,17.37648,78.496023,pothole
+potholes309.png,17.390418,78.485247,pothole
+potholes310.png,17.393422,78.49426,pothole
+potholes311.png,17.384349,78.484877,pothole
+potholes312.png,17.379679,78.494781,pothole
+potholes313.png,17.387087,78.479292,no pothole
+potholes314.png,17.375084,78.477247,no pothole
+potholes315.png,17.386528,78.486374,pothole
+potholes316.png,17.378823,78.492866,pothole
+potholes317.png,17.390849,78.490845,pothole
+potholes318.png,17.391635,78.495927,pothole
+potholes319.png,17.393919,78.493915,pothole
+potholes320.png,17.381095,78.481546,pothole
+potholes321.png,17.393646,78.496243,pothole
+potholes322.png,17.391215,78.485109,no pothole
+potholes323.png,17.394472,78.48506,pothole
+potholes324.png,17.379984,78.482561,pothole
+potholes325.png,17.375577,78.482296,no pothole
+potholes326.png,17.387355,78.476734,pothole
+potholes327.png,17.378609,78.48243,no pothole
+potholes328.png,17.375359,78.48549,pothole
+potholes329.png,17.384063,78.478806,pothole
+potholes330.png,17.391653,78.491152,pothole
+potholes331.png,17.377207,78.487204,pothole
+potholes332.png,17.384035,78.487972,pothole
+potholes333.png,17.392558,78.495373,no pothole
+potholes334.png,17.376191,78.492935,no pothole
+potholes335.png,17.386971,78.493518,pothole
+potholes336.png,17.393731,78.48325,pothole
+potholes337.png,17.389536,78.486043,pothole
+potholes338.png,17.382778,78.490013,pothole
+potholes339.png,17.37841,78.479152,pothole
+potholes340.png,17.388487,78.487786,pothole
+potholes341.png,17.389984,78.48534,pothole
+potholes342.png,17.386957,78.491438,no pothole
+potholes343.png,17.375074,78.485037,pothole
+potholes344.png,17.380754,78.479107,pothole
+potholes345.png,17.384598,78.482392,no pothole
+potholes346.png,17.387174,78.494871,pothole
+potholes347.png,17.379507,78.486008,no pothole
+potholes348.png,17.37775,78.481875,no pothole
+potholes349.png,17.391235,78.485755,pothole
+potholes350.png,17.387141,78.490251,pothole
+potholes351.png,17.382716,78.477974,no pothole
+potholes352.png,17.389059,78.480566,pothole
+potholes353.png,17.382969,78.478093,pothole
+potholes354.png,17.390133,78.496176,pothole
+potholes355.png,17.376526,78.47962,no pothole
+potholes356.png,17.376568,78.483905,pothole
+potholes357.png,17.392336,78.49407,pothole
+potholes358.png,17.380375,78.484203,no pothole
+potholes359.png,17.377745,78.492752,pothole
+potholes360.png,17.380626,78.490233,no pothole
+potholes361.png,17.38307,78.477603,pothole
+potholes362.png,17.378051,78.488686,pothole
+potholes363.png,17.382171,78.494974,no pothole
+potholes364.png,17.375351,78.481675,no pothole
+potholes365.png,17.376238,78.479471,pothole
+potholes366.png,17.382387,78.49542,pothole
+potholes367.png,17.390537,78.494857,no pothole
+potholes368.png,17.384896,78.495397,no pothole
+potholes369.png,17.393644,78.494376,pothole
+potholes370.png,17.37941,78.478843,no pothole
+potholes371.png,17.378793,78.490609,no pothole
+potholes372.png,17.379786,78.493192,no pothole
+potholes373.png,17.394999,78.483393,pothole
+potholes374.png,17.377549,78.491481,no pothole
+potholes375.png,17.391045,78.477069,pothole
+potholes376.png,17.378316,78.487175,no pothole
+potholes377.png,17.378448,78.478196,no pothole
+potholes378.png,17.389033,78.484964,pothole
+potholes379.png,17.388599,78.492708,no pothole
+potholes380.png,17.392322,78.494147,no pothole
+potholes381.png,17.387033,78.495551,no pothole
+potholes382.png,17.376587,78.490167,no pothole
+potholes383.png,17.37836,78.482147,no pothole
+potholes384.png,17.383198,78.478698,pothole
+potholes385.png,17.386741,78.493224,pothole
+potholes386.png,17.381582,78.477866,pothole
+potholes387.png,17.391737,78.484073,pothole
+potholes388.png,17.377069,78.490496,no pothole
+potholes389.png,17.392395,78.483415,pothole
+potholes390.png,17.3938,78.491322,no pothole
+potholes391.png,17.382941,78.492579,pothole
+potholes392.png,17.378122,78.493422,no pothole
+potholes393.png,17.390033,78.483618,pothole
+potholes394.png,17.378497,78.489158,pothole
+potholes395.png,17.393742,78.495699,pothole
+potholes396.png,17.393638,78.482825,pothole
+potholes397.png,17.392039,78.490212,pothole
+potholes398.png,17.394232,78.49022,pothole
+potholes399.png,17.386791,78.480397,pothole
+potholes400.png,17.391716,78.491568,pothole
+potholes401.png,17.394439,78.479859,pothole
+potholes402.png,17.392798,78.480506,pothole
+potholes403.png,17.389613,78.49598,pothole
+potholes404.png,17.382665,78.49225,pothole
+potholes405.png,17.386511,78.490591,pothole
+potholes406.png,17.387214,78.484037,pothole
+potholes407.png,17.384163,78.480237,pothole
+potholes408.png,17.392094,78.480191,no pothole
+potholes409.png,17.377991,78.494721,no pothole
+potholes410.png,17.393861,78.491583,no pothole
+potholes411.png,17.37555,78.493754,pothole
+potholes412.png,17.377331,78.493841,no pothole
+potholes413.png,17.383273,78.487349,no pothole
+potholes414.png,17.380714,78.495374,no pothole
+potholes415.png,17.388377,78.494653,pothole
+potholes416.png,17.378453,78.477311,pothole
+potholes417.png,17.382658,78.483376,no pothole
+potholes418.png,17.392236,78.492828,no pothole
+potholes419.png,17.387437,78.478868,pothole
+potholes420.png,17.394574,78.490142,pothole
+potholes421.png,17.384367,78.479671,pothole
+potholes422.png,17.388145,78.483132,pothole
+potholes423.png,17.39171,78.489534,no pothole
+potholes424.png,17.3933,78.486415,no pothole
+potholes425.png,17.392624,78.487792,pothole
+potholes426.png,17.388739,78.478167,pothole
+potholes427.png,17.376507,78.485828,pothole
+potholes428.png,17.37582,78.484526,no pothole
+potholes429.png,17.37558,78.491971,no pothole
+potholes430.png,17.386688,78.491373,pothole
+potholes431.png,17.381848,78.481464,no pothole
+potholes432.png,17.388869,78.478556,no pothole
+potholes433.png,17.391951,78.477386,pothole
+potholes434.png,17.381931,78.492874,no pothole
+potholes435.png,17.3926,78.496228,no pothole
+potholes436.png,17.375116,78.493587,no pothole
+potholes437.png,17.379509,78.490622,pothole
+potholes438.png,17.390951,78.482967,no pothole
+potholes439.png,17.378711,78.479417,no pothole
+potholes440.png,17.390311,78.48607,pothole
+potholes441.png,17.382726,78.4883,no pothole
+potholes442.png,17.392976,78.486128,pothole
+potholes443.png,17.382406,78.482355,no pothole
+potholes444.png,17.384851,78.485563,pothole
+potholes445.png,17.379865,78.490615,pothole
+potholes446.png,17.38358,78.494629,no pothole
+potholes447.png,17.382192,78.484687,no pothole
+potholes448.png,17.389572,78.496226,no pothole
+potholes449.png,17.38013,78.476708,pothole
+potholes450.png,17.380091,78.479302,pothole
+potholes451.png,17.394603,78.491347,pothole
+potholes452.png,17.394783,78.486342,pothole
+potholes453.png,17.386941,78.493037,no pothole
+potholes454.png,17.382075,78.479154,pothole
+potholes455.png,17.379827,78.479871,pothole
+potholes456.png,17.390987,78.481265,no pothole
+potholes457.png,17.39054,78.477419,no pothole
+potholes458.png,17.391946,78.484526,no pothole
+potholes459.png,17.391277,78.496677,pothole
+potholes460.png,17.388774,78.48108,pothole
+potholes461.png,17.382707,78.492328,pothole
+potholes462.png,17.380108,78.478869,no pothole
+potholes463.png,17.394076,78.487246,no pothole
+potholes464.png,17.384479,78.493597,no pothole
+potholes465.png,17.383431,78.479386,pothole
+potholes466.png,17.381705,78.491489,pothole
+potholes467.png,17.380589,78.489346,no pothole
+potholes468.png,17.393233,78.492598,pothole
+potholes469.png,17.381905,78.48772,no pothole
+potholes470.png,17.384727,78.478614,pothole
+potholes471.png,17.389998,78.487995,pothole
+potholes472.png,17.380999,78.481897,no pothole
+potholes473.png,17.379995,78.491524,pothole
+potholes474.png,17.380303,78.486992,pothole
+potholes475.png,17.386002,78.483531,pothole
+potholes476.png,17.380625,78.489901,pothole
+potholes477.png,17.391318,78.482522,no pothole
+potholes478.png,17.381364,78.492977,pothole
+potholes479.png,17.376513,78.485339,no pothole
+potholes480.png,17.384961,78.48495,no pothole
+potholes481.png,17.392617,78.485909,no pothole
+potholes482.png,17.384117,78.493755,no pothole
+potholes483.png,17.382639,78.494748,pothole
+potholes484.png,17.393317,78.493442,pothole
+potholes485.png,17.387103,78.48919,no pothole
+potholes486.png,17.37864,78.488917,pothole
+potholes487.png,17.39196,78.483442,no pothole
+potholes488.png,17.384296,78.481642,pothole
+potholes489.png,17.382567,78.483226,no pothole
+potholes490.png,17.388922,78.489188,no pothole
+potholes491.png,17.383617,78.489344,pothole
+potholes492.png,17.390592,78.482786,pothole
+potholes493.png,17.382712,78.493922,no pothole
+potholes494.png,17.376101,78.481105,no pothole
+potholes495.png,17.394386,78.479526,pothole
+potholes496.png,17.383165,78.47905,pothole
+potholes497.png,17.386306,78.485736,no pothole
+potholes498.png,17.383999,78.477797,pothole
+potholes499.png,17.382245,78.479481,no pothole
+potholes500.png,17.380542,78.478614,pothole
+potholes501.png,17.381212,78.484324,no pothole
+potholes502.png,17.381382,78.494677,pothole
+potholes503.png,17.386164,78.494525,no pothole
+potholes504.png,17.393074,78.476718,pothole
+potholes505.png,17.377486,78.480583,pothole
+potholes506.png,17.392041,78.478404,pothole
+potholes507.png,17.383294,78.481259,no pothole
+potholes508.png,17.376345,78.481109,no pothole
+potholes509.png,17.378285,78.480248,no pothole
+potholes510.png,17.394107,78.482611,no pothole
+potholes511.png,17.3807,78.482768,no pothole
+potholes512.png,17.375933,78.48005,no pothole
+potholes513.png,17.386495,78.483982,pothole
+potholes514.png,17.383218,78.488993,no pothole
+potholes515.png,17.382933,78.486551,pothole
+potholes516.png,17.389025,78.488797,no pothole
+potholes517.png,17.378625,78.479753,no pothole
+potholes518.png,17.385435,78.487848,pothole
+potholes519.png,17.389581,78.493625,pothole
+potholes520.png,17.393099,78.486057,pothole
+potholes521.png,17.375077,78.495966,pothole
+potholes522.png,17.378134,78.494597,pothole
+potholes523.png,17.393795,78.48395,no pothole
+potholes524.png,17.386406,78.477888,pothole
+potholes525.png,17.386066,78.481852,pothole
+potholes526.png,17.380197,78.496186,no pothole
+potholes527.png,17.386937,78.491392,no pothole
+potholes528.png,17.385786,78.477484,no pothole
+potholes529.png,17.389083,78.488062,pothole
+potholes530.png,17.383204,78.491184,pothole
+potholes531.png,17.389725,78.49531,pothole
+potholes532.png,17.390396,78.47754,pothole
+potholes533.png,17.382981,78.489874,pothole
+potholes534.png,17.394114,78.48436,no pothole
+potholes535.png,17.39089,78.48425,no pothole
+potholes536.png,17.380225,78.488531,no pothole
+potholes537.png,17.376128,78.495479,no pothole
+potholes538.png,17.393851,78.486651,no pothole
+potholes539.png,17.390752,78.484413,no pothole
+potholes540.png,17.37739,78.480362,no pothole
+potholes541.png,17.378006,78.485271,pothole
+potholes542.png,17.391806,78.492191,no pothole
+potholes543.png,17.380985,78.487293,pothole
+potholes544.png,17.394504,78.49539,pothole
+potholes545.png,17.380952,78.479827,no pothole
+potholes546.png,17.388515,78.489176,no pothole
+potholes547.png,17.382323,78.479604,no pothole
+potholes548.png,17.377394,78.495656,no pothole
+potholes549.png,17.38971,78.480497,pothole
+potholes550.png,17.378229,78.494914,no pothole
+potholes551.png,17.376776,78.482858,no pothole
+potholes552.png,17.376884,78.479308,no pothole
+potholes553.png,17.377712,78.484409,no pothole
+potholes554.png,17.389259,78.477241,no pothole
+potholes555.png,17.3754,78.494327,no pothole
+potholes556.png,17.380558,78.489859,pothole
+potholes557.png,17.385609,78.479738,pothole
+potholes558.png,17.385532,78.496615,no pothole
+potholes559.png,17.389897,78.494373,no pothole
+potholes560.png,17.38148,78.484214,no pothole
+potholes561.png,17.392037,78.476748,no pothole
+potholes562.png,17.380374,78.488867,no pothole
+potholes563.png,17.383504,78.49048,no pothole
+potholes564.png,17.380185,78.489545,no pothole
+potholes565.png,17.379401,78.477335,no pothole
+potholes566.png,17.379444,78.479273,pothole
+potholes567.png,17.393226,78.487232,pothole
+potholes568.png,17.387073,78.487608,pothole
+potholes569.png,17.390004,78.479178,pothole
+potholes570.png,17.37935,78.483449,no pothole
+potholes571.png,17.383843,78.489868,no pothole
+potholes572.png,17.382691,78.481117,no pothole
+potholes573.png,17.382859,78.486029,no pothole
+potholes574.png,17.390241,78.48961,pothole
+potholes575.png,17.384812,78.488152,no pothole
+potholes576.png,17.378981,78.493504,no pothole
+potholes577.png,17.386708,78.495668,no pothole
+potholes578.png,17.378569,78.478232,no pothole
+potholes579.png,17.381997,78.485053,no pothole
+potholes580.png,17.389819,78.483494,no pothole
+potholes581.png,17.394607,78.486083,no pothole
+potholes582.png,17.384643,78.48908,no pothole
+potholes583.png,17.381768,78.487597,no pothole
+potholes584.png,17.375866,78.494765,pothole
+potholes585.png,17.385598,78.482319,no pothole
+potholes586.png,17.392213,78.491305,pothole
+potholes587.png,17.383218,78.494038,pothole
+potholes588.png,17.38363,78.485743,no pothole
+potholes589.png,17.389666,78.496267,pothole
+potholes590.png,17.378694,78.493157,no pothole
+potholes591.png,17.385391,78.479919,pothole
+potholes592.png,17.376883,78.482367,pothole
+potholes593.png,17.389598,78.483804,pothole
+potholes594.png,17.386257,78.496377,pothole
+potholes595.png,17.383246,78.490688,no pothole
+potholes596.png,17.379896,78.494265,pothole
+potholes597.png,17.382405,78.494058,no pothole
+potholes598.png,17.393165,78.492015,no pothole
+potholes599.png,17.394998,78.48528,no pothole
+potholes600.png,17.391923,78.496073,pothole
+potholes601.png,17.376205,78.490373,no pothole
+potholes602.png,17.394845,78.48078,pothole
+potholes603.png,17.389704,78.484785,pothole
+potholes604.png,17.383538,78.481677,no pothole
+potholes605.png,17.388547,78.490734,pothole
+potholes606.png,17.380801,78.485581,no pothole
+potholes607.png,17.391944,78.489572,no pothole
+potholes608.png,17.380934,78.48278,pothole
+potholes609.png,17.386727,78.476942,pothole
+potholes610.png,17.377518,78.478826,pothole
+potholes611.png,17.375486,78.490566,no pothole
+potholes612.png,17.378929,78.49211,no pothole
+potholes613.png,17.387524,78.483064,pothole
+potholes614.png,17.380216,78.493712,no pothole
+potholes615.png,17.384604,78.478503,no pothole
+potholes616.png,17.390663,78.489031,no pothole
+potholes617.png,17.382204,78.487243,pothole
+potholes618.png,17.379494,78.489786,pothole
+potholes619.png,17.381114,78.492392,no pothole
+potholes620.png,17.380239,78.4846,pothole
+potholes621.png,17.393497,78.48132,no pothole
+potholes622.png,17.388022,78.48473,no pothole
+potholes623.png,17.38392,78.480864,no pothole
+potholes624.png,17.394662,78.485872,pothole
+potholes625.png,17.381592,78.482782,no pothole
+potholes626.png,17.391725,78.482362,no pothole
+potholes627.png,17.38403,78.493258,no pothole
+potholes628.png,17.378152,78.48355,no pothole
+potholes629.png,17.376885,78.491608,no pothole
+potholes630.png,17.375789,78.493538,pothole
+potholes631.png,17.383248,78.483721,no pothole
+potholes632.png,17.3821,78.484776,pothole
+potholes633.png,17.389859,78.485172,pothole
+potholes634.png,17.375911,78.496142,no pothole
+potholes635.png,17.378125,78.485737,no pothole
+potholes636.png,17.386904,78.481604,pothole
+potholes637.png,17.384593,78.485638,no pothole
+potholes638.png,17.393859,78.493106,no pothole
+potholes639.png,17.390305,78.476769,pothole
+potholes640.png,17.379379,78.490902,pothole
+potholes641.png,17.380009,78.492588,no pothole
+potholes642.png,17.392357,78.493822,no pothole
+potholes643.png,17.377709,78.476864,pothole
+potholes644.png,17.384184,78.487473,pothole
+potholes645.png,17.391901,78.487181,no pothole
+potholes646.png,17.379957,78.485923,pothole
+potholes647.png,17.375206,78.494087,no pothole
+potholes648.png,17.383224,78.480067,no pothole
+potholes649.png,17.391564,78.489325,no pothole
+potholes650.png,17.378062,78.487653,no pothole
+potholes651.png,17.392631,78.488594,pothole
+potholes652.png,17.381639,78.487652,pothole
+potholes653.png,17.382201,78.495853,pothole
+potholes654.png,17.388852,78.488683,no pothole
+potholes655.png,17.394851,78.494347,no pothole
+potholes656.png,17.394024,78.480118,pothole
+potholes657.png,17.392509,78.477789,no pothole
+potholes658.png,17.378202,78.493181,pothole
+potholes659.png,17.380489,78.496029,no pothole
+potholes660.png,17.381699,78.489424,no pothole
+potholes661.png,17.375145,78.494665,pothole
+potholes662.png,17.383845,78.48181,no pothole
+potholes663.png,17.383074,78.486363,pothole
+potholes664.png,17.386394,78.47902,no pothole
